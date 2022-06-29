@@ -52,7 +52,7 @@ public class SecretPassway implements Runnable {
 
 	private IBelongControl belongControl;
 
-	private int streamCacheSize = 8192;
+	private int streamCacheSize = 1024;
 
 	private Socket recvSocket;
 	private Socket sendSocket;
