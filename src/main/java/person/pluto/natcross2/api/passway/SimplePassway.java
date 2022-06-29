@@ -42,7 +42,7 @@ public class SimplePassway implements Runnable, INioProcesser {
 	 * 缓存大小
 	 */
 	@Setter
-	private int streamCacheSize = 8192;
+	private int streamCacheSize = 1024;
 
 	@Setter
 	private Socket recvSocket;
