@@ -1,9 +1,9 @@
+取自开源地址:https://github.com/Pluto-Whong/natcross2
 # natcross2
 内网穿透工具
 
 *********************
 
-**Q群：438793541**
 
 ## natcross是做什么的？
 - 需要自己提供硬件支持、部署的内网穿透工具
