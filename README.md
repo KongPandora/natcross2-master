@@ -1,4 +1,4 @@
-取自开源地址:https://github.com/Pluto-Whong/natcross2
+二开取自开源地址:https://github.com/Pluto-Whong/natcross2
 # natcross2
 内网穿透工具
 
